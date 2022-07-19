@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 @lisa_luiza19
+
 #
 from flask import Flask, request, render_template, jsonify, redirect, g, flash
 from core.config import *
